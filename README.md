@@ -101,6 +101,8 @@ Web projects built for clients across different industries:
 - 💡 [**Edison Lighting**](https://edisonlightingpk.com)
 - 📖 **Quran Academy**
 - 👥 [**Workaholics**](https://workaholics.com.pk)
+- 🏢 **Muskalanwar**
+- 🧪 **Muntaha Chemicals**
 
 ## 🌍 Public Repository Projects
 
