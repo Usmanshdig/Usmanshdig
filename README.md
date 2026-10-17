@@ -76,24 +76,7 @@ I design and build software around real business workflows—from customer-facin
 
 ---
 
-### 💊 [Smart Pharmacy — Pharmacy Access Management](https://smartpharmacy.unitrixsolutions.com)
-
-> A pharmacy administration application focused on secure staff access and policy management.
-
-- 🛡️ Provides role-based clearance levels and protected routes.
-- 👥 Lets administrators manage user groups and global security policies.
-- 🔒 Uses server-side user provisioning rather than open public registration.
-
-**Built with**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-
----
-
-### 🌐 [Unitrix Solutions — Company Website].(https://unitrixsolutions.com).
+### 🌐 [Unitrix Solutions — Company Website](https://unitrixsolutions.com)
 
 > A multi-page agency and product website for services, company information, support, and products.
 
@@ -107,6 +90,40 @@ I design and build software around real business workflows—from customer-facin
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+---
+
+## 🖥️ Client Website Projects
+
+Web projects built for clients across different industries:
+
+- 🧪 [**CitiLab**](https://citilab.com.pk)
+- 💡 [**Edison Lighting**](https://edisonlightingpk.com)
+- 📖 **Quran Academy**
+- 👥 [**Workaholics**](https://workaholics.com.pk)
+
+## 🌍 Public Repository Projects
+
+Publicly available projects:
+
+- 🚧 [**Coming Soon Page**](https://github.com/Unitrix-Solutions/comingsoonpage)
+- 📲 [**WhatsApp Auto Sender**](https://github.com/Unitrix-Solutions/whatsapp-auto-sender)
+
+## 🧩 Public Software Adapted for Client Use
+
+Customized established open-source platforms to fit client requirements:
+
+- 🏢 **Odoo**
+- 🧾 **Invoice Ninja**
+
+## 🔧 Projects in Progress
+
+Currently in development or on the way:
+
+- 🌐 **Social Hub**
+- 🧭 **U Panel**
+- 🛒 [**Unitrix IT Store**](https://unitrixitstore.com)
+- 💊 **[Smart Pharmacy](https://smartpharmacy.unitrixsolutions.com)** — pharmacy access management with role-based permissions, user-group administration, and security policies.
 
 ---
 
