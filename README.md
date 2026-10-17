@@ -1,10 +1,10 @@
 <div align="center">
 
-# ✨ Full-Stack Product Builder & Vibe Coder
+# ✨ Vibe Coder · WordPress Developer · Graphic Designer
 
-### SaaS · Healthcare · AI · Business Systems
+### SaaS · WordPress · Graphic Design · Healthcare · AI
 
-I’m a **vibe coder**: I use AI-assisted tools, fast iteration, and strong product intuition to turn ideas into useful software. I pair that creative momentum with thoughtful engineering, validating the details so products work beyond the first demo.
+I’m a **vibe coder**, **expert WordPress web developer**, and **graphic designer**. I use AI-assisted tools, fast iteration, and strong product intuition to turn ideas into useful software and visual experiences. I pair creative momentum with thoughtful engineering, validating the details so products work beyond the first demo.
 
 <a href="https://unitrixsolutions.com"><img src="https://img.shields.io/badge/UNITRIX_SOLUTIONS-Visit_website-ff7a1a?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Unitrix Solutions"></a>
 <img src="https://img.shields.io/badge/BUILDING-Useful_products-6c5ce7?style=for-the-badge&logo=rocket&logoColor=white" alt="Building useful products">
@@ -139,7 +139,8 @@ Currently in development or on the way:
 
 | Area | Technologies |
 |:---|:---|
-| 🎨 **Frontend** | React · Next.js · TypeScript · Vite · Tailwind CSS |
+| 🎨 **Frontend & web** | React · Next.js · TypeScript · Vite · Tailwind CSS · WordPress |
+| 🖌️ **Design** | Graphic design · Visual design · UI/UX |
 | 🗄️ **Backend & data** | Supabase · PostgreSQL · Row-Level Security · Server APIs |
 | 🧠 **AI & integrations** | OpenAI · Gemini · Anthropic · OpenRouter · WhatsApp providers |
 | 📊 **Product capabilities** | Multi-tenancy · Role-based access · Analytics · Reporting · Workflow automation |
