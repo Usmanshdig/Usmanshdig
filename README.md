@@ -17,7 +17,7 @@ I design and build software around real business workflows—from customer-facin
 
 ## 🚀 Selected Projects
 
-### 🤖 BChat — AI-Powered WhatsApp CRM
+### 🤖 [BChat — AI-Powered WhatsApp CRM](https://bchat.unitrixsolutions.com)
 
 > A multi-tenant customer-support and sales platform combining WhatsApp messaging, AI chatbots, and CRM workflows.
 
@@ -37,7 +37,7 @@ I design and build software around real business workflows—from customer-facin
 
 ---
 
-### 🏥 Smart Clinic — Clinic Management SaaS
+### 🏥 [Smart Clinic — Clinic Management SaaS](https://smartclinic.unitrixsolutions.com)
 
 > A multi-workspace clinic system with role-specific tools for administrators, doctors, nurses, receptionists, and supervisors.
 
@@ -57,7 +57,7 @@ I design and build software around real business workflows—from customer-facin
 
 ---
 
-### 🧪 Smart QC Manager — Laboratory Quality Control
+### 🧪 [Smart QC Manager — Laboratory Quality Control](https://smartqcmanager.unitrixsolutions.com)
 
 > A laboratory application for recording quality-control results, monitoring trends, and preparing reports.
 
@@ -76,7 +76,7 @@ I design and build software around real business workflows—from customer-facin
 
 ---
 
-### 💊 Smart Pharmacy — Pharmacy Access Management
+### 💊 [Smart Pharmacy — Pharmacy Access Management](https://smartpharmacy.unitrixsolutions.com)
 
 > A pharmacy administration application focused on secure staff access and policy management.
 
