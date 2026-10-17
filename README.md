@@ -1,15 +1,17 @@
 <div align="center">
 
-# ✨ Full-Stack Product Builder
+# ✨ Full-Stack Product Builder & Vibe Coder
 
 ### SaaS · Healthcare · AI · Business Systems
 
-I design and build software around real business workflows—from customer-facing websites to multi-tenant platforms and operational systems.
+I’m a **vibe coder**: I use AI-assisted tools, fast iteration, and strong product intuition to turn ideas into useful software. I pair that creative momentum with thoughtful engineering, validating the details so products work beyond the first demo.
 
 <a href="https://unitrixsolutions.com"><img src="https://img.shields.io/badge/UNITRIX_SOLUTIONS-Visit_website-ff7a1a?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Unitrix Solutions"></a>
 <img src="https://img.shields.io/badge/BUILDING-Useful_products-6c5ce7?style=for-the-badge&logo=rocket&logoColor=white" alt="Building useful products">
 
 </div>
+
+I design and build software around real business workflows—from customer-facing websites to multi-tenant platforms and operational systems.
 
 ---
 
